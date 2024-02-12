@@ -1,4 +1,4 @@
-module main
+module ejercicio_saludo_go
 
 go 1.22.0
 
@@ -9,3 +9,4 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
